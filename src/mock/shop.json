@@ -1,0 +1,34 @@
+[
+  {
+    "id":"1",
+    "skuName":"惠普暗影精灵6(i7 10750H/16GB/512GB/RTX2060/144Hz)",
+    "img":"/images/goods1.png",
+    "skuPrice":"5666",
+    "skuNum":1,
+    "isChecked":"1"
+  },
+  {
+    "id":"2",
+    "skuName":"联想小新 Pro 13(i5 10210U/8GB/512GB/集显)",
+    "img":"/images/goods2.png",
+    "skuPrice":"8999",
+    "skuNum":2,
+    "isChecked":"0"
+  },
+  {
+    "id":"3",
+    "skuName":" 戴尔Latitude 9510(n009l9510-d1706cn)",
+    "img":"/images/goods3.png",
+    "skuPrice":"2599",
+    "skuNum":4,
+    "isChecked":"0"
+  },
+  {
+    "id":"4",
+    "skuName":"HUAWEI MateBook X 2020款(i5 10210U/16GB/512GB/集显)",
+    "img":"/images/goods1.png",
+    "skuPrice":"4899",
+    "skuNum":2,
+    "isChecked":"0"
+  }
+]
